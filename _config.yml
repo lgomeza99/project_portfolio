@@ -21,7 +21,7 @@ repository               : "project_portfolio/lgomeza99.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_pic.png"
+  avatar           : "profile_pic.jpg"
   name             : "Lina Gómez Araque"
   pronouns         : "she/her"  
   bio              : "BI Analyst & Data Analyst"
