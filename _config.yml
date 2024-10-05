@@ -13,8 +13,8 @@ title_separator          : "-"
 name                     : &name "Lina Gómez Araque"
 description              : &description "personal description"
 url                      : https://lgomeza99.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "project_portfolio/lgomeza99.github.io"
+baseurl                  : "project_portfolio" # the subpath of your site, e.g. "/blog"
+repository               : "lgomeza99/project_portfolio"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
