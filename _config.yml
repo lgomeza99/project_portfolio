@@ -23,12 +23,12 @@ author:
   # Biographic information
   avatar           : "profile_pic.jpg"
   name             : "Lina Gómez Araque"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  pronouns         : "she/her"  
+  bio              : "BI Analyst & Data Analyst"
+  location         : "Barcelona , Spain"
+  employer         : #"Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "linagomezaraque@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
